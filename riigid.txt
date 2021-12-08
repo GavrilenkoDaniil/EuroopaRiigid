@@ -1,0 +1,15 @@
+Albaania-Tirana
+Andorra-AndorralaVella
+Armeenia-Jerevan
+Aserbaidzaan-Bakuu
+Austria-Viin
+Belgia-Brussel
+BosniajaHertsegoviina-Sar
+Bulgaaria-Sofia
+Eesti-Tallinn
+Gruusia-Thbilisi
+Hispaania-Madrid
+Horvaatia-Zagreb
+Iirimaa-Dublin
+Island-Reykjavik
+Itaalia-Rooma
