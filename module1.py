@@ -31,6 +31,6 @@ def test(riigid:dict,riig:list):
             print('Неправильно!')
         else:
             print('Правильно!')
-            b+1
+            b=b+1
     o=b/h*100
-    print(f'У вас {o} процентов!')#    
+    print(f'У вас {o} процентов!')   

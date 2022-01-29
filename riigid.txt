@@ -1,7 +1,7 @@
 Albaania-Tirana
 Andorra-Andorrala Vella
 Armeenia-Jerevan
-Aserbaidþaan-Bakuu
+Aserbaidzaan-Bakuu
 Austria-Viin
 Belgia-Brüssel
 Bosnia ja Hertsegoviina-Sarajevo
@@ -19,7 +19,7 @@ Küpros-Nikosia
 Leedu-Vilnius
 Liechtenstein-Vaduz
 Luksemburg-Luxembourg
-Läti-Riia
+Lati-Riia
 Madalmaad-Amsterdam
 Makedoonia-Skopje
 Malta-Valletta
@@ -47,4 +47,4 @@ Ukraina-Kiiev
 Ungari-Budapest
 Valgevene-Minsk
 Vatikan-Vatican
-Venemaa-Moskva
+Venemaa-Moscow
